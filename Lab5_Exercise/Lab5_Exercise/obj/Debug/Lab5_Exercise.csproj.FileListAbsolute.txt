@@ -1,0 +1,8 @@
+D:\SANDBAG\PROGRAMMING\sharp\Navisworks Tutorial\Exercise\Lab5_Exercise\Lab5_Exercise\bin\Debug\Lab5_Exercise.dll
+D:\SANDBAG\PROGRAMMING\sharp\Navisworks Tutorial\Exercise\Lab5_Exercise\Lab5_Exercise\bin\Debug\Lab5_Exercise.pdb
+D:\SANDBAG\PROGRAMMING\sharp\Navisworks Tutorial\Exercise\Lab5_Exercise\Lab5_Exercise\obj\Debug\Lab5_Exercise.csprojAssemblyReference.cache
+D:\SANDBAG\PROGRAMMING\sharp\Navisworks Tutorial\Exercise\Lab5_Exercise\Lab5_Exercise\obj\Debug\Lab5_Exercise.csproj.CoreCompileInputs.cache
+D:\SANDBAG\PROGRAMMING\sharp\Navisworks Tutorial\Exercise\Lab5_Exercise\Lab5_Exercise\obj\Debug\Lab5_Exercise.dll
+D:\SANDBAG\PROGRAMMING\sharp\Navisworks Tutorial\Exercise\Lab5_Exercise\Lab5_Exercise\obj\Debug\Lab5_Exercise.pdb
+D:\SANDBAG\PROGRAMMING\sharp\Navisworks Tutorial\Exercise\Lab5_Exercise\Lab5_Exercise\obj\Debug\Lab5_Exercise.SearchBox.resources
+D:\SANDBAG\PROGRAMMING\sharp\Navisworks Tutorial\Exercise\Lab5_Exercise\Lab5_Exercise\obj\Debug\Lab5_Exercise.csproj.GenerateResource.cache
